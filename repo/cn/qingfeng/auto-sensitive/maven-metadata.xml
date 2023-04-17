@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.qingfeng</groupId>
+  <artifactId>auto-sensitive</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230417080306</lastUpdated>
+  </versioning>
+</metadata>
